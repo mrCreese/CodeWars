@@ -1,4 +1,4 @@
-const check = require('./NeedOne');
+const check = require('./needOne');
 
 const testExample = [
     {
