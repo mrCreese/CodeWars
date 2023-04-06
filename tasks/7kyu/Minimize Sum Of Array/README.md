@@ -1,0 +1,9 @@
+Task
+Given an array of integers , Find the minimum sum which is obtained from summing each Two integers product .
+Notes
+Array/list will contain positives only .
+Array/list will always have even size
+
+minSum({5,4,2,3}) ==> return (22)
+Explanation:
+The minimum sum obtained from summing each two integers product , 5*2 + 3*4 = 22
